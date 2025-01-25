@@ -114,3 +114,5 @@ def generate_all_large_datasets():
 
 if __name__ == "__main__":
     generate_all_large_datasets()
+    main
+    
