@@ -1,0 +1,201 @@
+Raw Material,Quantity,Category,Cost (per unit),ShelfLife (days),ExpiryDate
+Cheese (kg),19,Dairy,5.08,18,2025-02-03
+Tomatoes,22,Vegetables,1.32,7,2025-02-01
+Butter (kg),74,Dairy,4.67,43,2025-01-29
+Onions,16,Vegetables,0.65,7,2025-01-31
+Tomatoes,96,Vegetables,1.25,7,2025-01-30
+Tomatoes,62,Vegetables,1.21,5,2025-01-28
+Garlic (kg),59,Vegetables,2.51,34,2025-02-09
+Fish (kg),48,Seafood,7.51,2,2025-01-27
+Beef (kg),49,Meat,7.51,3,2025-01-29
+Flour (kg),73,Grains,0.85,276,2025-03-08
+Milk (ltr),42,Dairy,1.03,7,2025-02-02
+Beef (kg),78,Meat,6.48,3,2025-01-27
+Cheese (kg),34,Dairy,7.32,15,2025-02-09
+Tomatoes,17,Vegetables,1.07,6,2025-02-01
+Sugar (kg),51,Pantry,1.3,1457,2026-04-01
+Cheese (kg),39,Dairy,7.11,15,2025-02-05
+Cheese (kg),26,Dairy,6.6,17,2025-02-01
+Flour (kg),53,Grains,0.91,343,2025-11-08
+Tomatoes,92,Vegetables,1.03,5,2025-01-28
+Sugar (kg),9,Pantry,1.68,1551,2026-07-29
+Chicken (kg),32,Poultry,4.87,4,2025-01-28
+Cheese (kg),68,Dairy,6.19,21,2025-01-31
+Cooking Oil (ltr),22,Pantry,2.87,323,2025-10-29
+Cooking Oil (ltr),100,Pantry,3.38,329,2025-08-19
+Beef (kg),33,Meat,8.49,3,2025-01-29
+Flour (kg),16,Grains,1.1,208,2025-03-07
+Cheese (kg),25,Dairy,7.38,20,2025-02-15
+Chicken (kg),54,Poultry,4.07,5,2025-01-31
+Cooking Oil (ltr),75,Pantry,3.79,182,2025-07-20
+Garlic (kg),19,Vegetables,3.02,47,2025-02-13
+Fish (kg),87,Seafood,8.7,2,2025-01-28
+Rice (kg),63,Grains,1.0,499,2026-06-08
+Milk (ltr),27,Dairy,0.9,5,2025-01-29
+Sugar (kg),86,Pantry,1.5,1137,2025-12-06
+Beef (kg),25,Meat,7.35,5,2025-01-27
+Eggs (dozen),46,Dairy,2.73,22,2025-02-07
+Butter (kg),44,Dairy,4.98,37,2025-03-04
+Chicken (kg),15,Poultry,4.6,2,2025-01-27
+Rice (kg),89,Grains,1.38,646,2025-07-15
+Cooking Oil (ltr),72,Pantry,3.81,288,2025-05-15
+Butter (kg),74,Dairy,6.01,36,2025-02-15
+Potatoes,90,Vegetables,0.72,28,2025-02-12
+Flour (kg),20,Grains,0.9,196,2025-04-23
+Onions,80,Vegetables,0.89,10,2025-01-27
+Chicken (kg),95,Poultry,4.45,3,2025-01-27
+Butter (kg),9,Dairy,6.22,32,2025-02-11
+Cooking Oil (ltr),90,Pantry,3.23,318,2025-04-04
+Garlic (kg),78,Vegetables,2.86,37,2025-02-26
+Fish (kg),57,Seafood,7.95,1,2025-01-27
+Beef (kg),59,Meat,7.03,5,2025-01-27
+Cheese (kg),88,Dairy,7.95,15,2025-01-27
+Potatoes,98,Vegetables,0.57,17,2025-02-03
+Tomatoes,29,Vegetables,1.18,5,2025-01-30
+Rice (kg),40,Grains,1.37,403,2025-09-10
+Fish (kg),75,Seafood,7.49,1,2025-01-27
+Butter (kg),35,Dairy,4.83,45,2025-02-26
+Tomatoes,56,Vegetables,1.43,5,2025-01-30
+Onions,54,Vegetables,0.69,14,2025-01-31
+Potatoes,94,Vegetables,0.88,29,2025-01-31
+Tomatoes,42,Vegetables,0.95,5,2025-01-31
+Garlic (kg),74,Vegetables,2.09,40,2025-01-30
+Onions,79,Vegetables,0.83,9,2025-01-27
+Milk (ltr),15,Dairy,1.04,5,2025-01-31
+Chicken (kg),91,Poultry,4.79,5,2025-01-27
+Butter (kg),77,Dairy,4.99,31,2025-02-15
+Chicken (kg),58,Poultry,4.49,4,2025-01-29
+Tomatoes,90,Vegetables,1.3,5,2025-01-29
+Potatoes,21,Vegetables,0.74,23,2025-02-10
+Beef (kg),14,Meat,6.02,5,2025-01-31
+Chicken (kg),14,Poultry,4.31,4,2025-01-28
+Butter (kg),49,Dairy,6.26,37,2025-02-19
+Cooking Oil (ltr),25,Pantry,3.16,319,2025-06-30
+Eggs (dozen),88,Dairy,2.79,25,2025-02-17
+Chicken (kg),22,Poultry,3.9,2,2025-01-27
+Cooking Oil (ltr),41,Pantry,3.41,363,2025-07-21
+Tomatoes,92,Vegetables,1.24,6,2025-01-31
+Flour (kg),37,Grains,1.16,193,2025-02-19
+Cheese (kg),59,Dairy,7.49,14,2025-01-27
+Beef (kg),21,Meat,7.59,4,2025-01-28
+Garlic (kg),61,Vegetables,2.83,43,2025-03-03
+Onions,19,Vegetables,0.55,9,2025-02-04
+Onions,52,Vegetables,0.91,9,2025-02-02
+Rice (kg),10,Grains,1.25,385,2025-07-29
+Tomatoes,92,Vegetables,0.97,5,2025-01-29
+Fish (kg),76,Seafood,11.42,2,2025-01-27
+Butter (kg),35,Dairy,6.23,35,2025-02-22
+Onions,27,Vegetables,1.02,12,2025-02-02
+Fish (kg),90,Seafood,11.32,1,2025-01-27
+Rice (kg),94,Grains,1.09,384,2025-09-24
+Tomatoes,30,Vegetables,1.37,6,2025-01-29
+Cooking Oil (ltr),34,Pantry,2.83,348,2025-05-05
+Potatoes,47,Vegetables,0.54,16,2025-02-04
+Beef (kg),87,Meat,7.27,5,2025-01-31
+Beef (kg),8,Meat,6.29,4,2025-01-28
+Eggs (dozen),38,Dairy,2.06,27,2025-02-07
+Garlic (kg),45,Vegetables,2.65,46,2025-02-03
+Potatoes,78,Vegetables,0.5,15,2025-02-07
+Potatoes,5,Vegetables,0.66,20,2025-02-07
+Potatoes,13,Vegetables,0.87,24,2025-02-15
+Beef (kg),89,Meat,8.12,5,2025-01-29
+Milk (ltr),44,Dairy,0.97,6,2025-01-30
+Garlic (kg),42,Vegetables,2.83,36,2025-02-22
+Cheese (kg),53,Dairy,7.03,16,2025-02-05
+Potatoes,75,Vegetables,0.82,23,2025-02-05
+Tomatoes,60,Vegetables,1.35,7,2025-02-01
+Beef (kg),64,Meat,7.1,5,2025-01-28
+Milk (ltr),65,Dairy,1.02,7,2025-01-28
+Cheese (kg),15,Dairy,5.85,19,2025-01-29
+Sugar (kg),35,Pantry,1.6,1190,2026-03-10
+Rice (kg),8,Grains,1.04,608,2025-04-11
+Flour (kg),58,Grains,1.15,327,2025-05-06
+Garlic (kg),94,Vegetables,2.58,42,2025-02-11
+Rice (kg),88,Grains,1.55,419,2026-03-01
+Potatoes,33,Vegetables,0.49,30,2025-02-10
+Onions,76,Vegetables,0.67,8,2025-02-03
+Rice (kg),64,Grains,1.53,651,2026-09-28
+Beef (kg),61,Meat,7.53,5,2025-01-31
+Potatoes,75,Vegetables,0.62,19,2025-02-11
+Flour (kg),38,Grains,1.1,343,2025-06-17
+Fish (kg),71,Seafood,9.42,1,2025-01-27
+Flour (kg),14,Grains,1.09,240,2025-04-06
+Beef (kg),45,Meat,8.23,3,2025-01-27
+Rice (kg),34,Grains,1.31,443,2026-01-23
+Tomatoes,13,Vegetables,1.09,6,2025-01-31
+Flour (kg),58,Grains,0.82,287,2025-08-14
+Butter (kg),79,Dairy,6.39,30,2025-02-23
+Butter (kg),78,Dairy,5.26,30,2025-02-07
+Cooking Oil (ltr),54,Pantry,3.78,287,2025-10-29
+Garlic (kg),99,Vegetables,2.82,49,2025-02-10
+Flour (kg),33,Grains,0.91,304,2025-02-10
+Potatoes,48,Vegetables,0.73,26,2025-02-19
+Rice (kg),64,Grains,1.74,683,2026-07-27
+Onions,55,Vegetables,0.91,7,2025-01-27
+Cheese (kg),59,Dairy,5.41,21,2025-02-01
+Onions,38,Vegetables,0.77,10,2025-02-03
+Beef (kg),48,Meat,7.9,4,2025-01-29
+Fish (kg),58,Seafood,8.26,1,2025-01-27
+Onions,100,Vegetables,0.88,12,2025-01-30
+Cheese (kg),13,Dairy,7.34,14,2025-02-08
+Onions,36,Vegetables,0.64,7,2025-01-31
+Rice (kg),35,Grains,1.1,707,2025-05-24
+Eggs (dozen),32,Dairy,2.7,25,2025-02-20
+Beef (kg),26,Meat,7.51,5,2025-01-27
+Fish (kg),25,Seafood,11.82,1,2025-01-27
+Butter (kg),44,Dairy,5.65,42,2025-02-21
+Garlic (kg),30,Vegetables,2.11,52,2025-03-08
+Tomatoes,18,Vegetables,1.29,6,2025-02-01
+Eggs (dozen),20,Dairy,3.19,21,2025-02-07
+Milk (ltr),59,Dairy,0.96,5,2025-01-31
+Cheese (kg),48,Dairy,5.04,20,2025-02-11
+Chicken (kg),60,Poultry,4.94,5,2025-01-28
+Potatoes,27,Vegetables,0.77,22,2025-02-15
+Fish (kg),73,Seafood,10.87,2,2025-01-28
+Sugar (kg),98,Pantry,1.56,1390,2026-06-13
+Sugar (kg),16,Pantry,1.37,1653,2026-06-10
+Fish (kg),64,Seafood,9.85,2,2025-01-28
+Onions,68,Vegetables,1.1,9,2025-02-03
+Tomatoes,50,Vegetables,1.36,6,2025-01-29
+Butter (kg),81,Dairy,5.9,38,2025-03-03
+Onions,71,Vegetables,1.16,8,2025-01-30
+Garlic (kg),57,Vegetables,2.73,54,2025-02-11
+Garlic (kg),65,Vegetables,2.97,45,2025-02-24
+Fish (kg),7,Seafood,7.47,1,2025-01-27
+Garlic (kg),36,Vegetables,2.46,48,2025-02-19
+Flour (kg),75,Grains,1.01,288,2025-11-04
+Beef (kg),50,Meat,7.76,4,2025-01-29
+Cooking Oil (ltr),34,Pantry,2.68,229,2025-04-17
+Chicken (kg),100,Poultry,4.3,3,2025-01-27
+Tomatoes,99,Vegetables,1.14,7,2025-01-31
+Fish (kg),72,Seafood,9.98,1,2025-01-27
+Cooking Oil (ltr),34,Pantry,3.04,257,2025-02-03
+Garlic (kg),73,Vegetables,2.19,31,2025-01-28
+Milk (ltr),42,Dairy,0.98,5,2025-01-30
+Chicken (kg),6,Poultry,4.36,5,2025-01-30
+Flour (kg),48,Grains,0.87,193,2025-04-01
+Sugar (kg),66,Pantry,1.27,863,2026-03-13
+Flour (kg),14,Grains,1.03,355,2025-02-23
+Rice (kg),24,Grains,1.65,520,2025-04-24
+Tomatoes,20,Vegetables,1.19,6,2025-01-31
+Eggs (dozen),84,Dairy,2.34,27,2025-02-10
+Butter (kg),61,Dairy,5.09,43,2025-02-15
+Eggs (dozen),84,Dairy,2.09,22,2025-02-02
+Cheese (kg),32,Dairy,5.79,15,2025-01-29
+Tomatoes,27,Vegetables,1.19,5,2025-01-27
+Potatoes,62,Vegetables,0.74,29,2025-02-05
+Onions,34,Vegetables,0.7,11,2025-02-03
+Chicken (kg),92,Poultry,3.85,4,2025-01-28
+Potatoes,19,Vegetables,0.67,18,2025-02-04
+Sugar (kg),23,Pantry,1.24,1069,2026-10-18
+Eggs (dozen),100,Dairy,3.24,25,2025-02-10
+Chicken (kg),64,Poultry,4.53,5,2025-01-29
+Milk (ltr),74,Dairy,0.9,5,2025-01-31
+Onions,60,Vegetables,1.01,11,2025-01-27
+Chicken (kg),34,Poultry,4.94,2,2025-01-28
+Eggs (dozen),10,Dairy,3.14,23,2025-02-11
+Milk (ltr),88,Dairy,0.88,6,2025-01-28
+Eggs (dozen),60,Dairy,2.95,28,2025-01-29
+Flour (kg),49,Grains,0.96,262,2025-03-21
+Sugar (kg),25,Pantry,1.4,1744,2026-09-09
+Cheese (kg),56,Dairy,7.44,14,2025-02-03
